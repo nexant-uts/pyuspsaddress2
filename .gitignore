@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+dist
+build
+.DS_Store
+pyuspsaddress2.egg-info
+*.log
+.vscode
+Makefile
+*.password
